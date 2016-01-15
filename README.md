@@ -1,2 +1,2 @@
 "# javascript" 
-Testing the new Aliases for Cmder
+Tested Github
