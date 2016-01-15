@@ -1,0 +1,6 @@
+# ignore .chef
+/.chef
+/.chef/*.pem
+
+#windows 
+Thumbs.db
