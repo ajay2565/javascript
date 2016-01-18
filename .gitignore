@@ -4,3 +4,7 @@
 
 #windows 
 Thumbs.db
+
+# Vagrant
+.vagrant
+/.vagrant
